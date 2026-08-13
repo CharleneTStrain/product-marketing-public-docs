@@ -1,0 +1,51 @@
+# 🐙 Charlene's Product Marketing Operations Playbook
+
+*Status: Public | Last Updated: August 12, 2026 | Owner: Product Marketing*
+
+We do not buy software to fix human operational failures. If a process is broken manually, running it through an AI workflow or hiding it inside a shiny wiki just helps us fail faster and look stupider at scale. 
+
+This playbook dictates how we handle workflow automation and cross-departmental documentation.
+
+---
+
+## Part 1: The Zero-Chaos Automation Rule
+
+We do not automate messy processes. If a workflow cannot be executed flawlessly by a human using a basic spreadsheet or manual handoffs, it is legally banned from Zapier, Make, and AI tools. 
+
+### 🛠️ The 3-Step Debugging Framework
+
+Before building any automated workflow or AI agent chain, you must pass the **Manual Master Test**:
+
+1. **The Manual Sprint (5 Days):** Force the team to execute the exact process completely by hand for one business week. Log every single friction point, edge case, and human error in a shared document.
+
+2. **The Friction Pruning:** You must aggressively delete steps. If your manual process has 9 steps, cut it down to 4. If you cannot explain the workflow logic to a five-year-old, the logic is broken. Fix the blueprint first.
+
+3. **The Automation Flip:** Only when the 4-step manual process has run perfectly with zero errors for 14 consecutive days are you allowed to automate it. 
+
+> 🚫 **Charlene's Rule:** If an automated workflow breaks more than twice in one week, **delete it immediately**. Go back to step 1. Do not spend three days debugging a machine when a human can do it in 45 seconds.
+
+---
+
+## Part 2: The "Militant Documentation" Mandate
+
+A company knowledge base or "second brain" is not a software features problem. It is an operational discipline problem. We do not tolerate secondary "shadow wikis" or undocumented casual alignment.
+
+### 🛑 The "If It Isn't Logged, It Didn't Happen" Code
+
+If data or decisions live exclusively in siloed department channels, the product marketing team will actively ignore them. We enforce alignment across departments via three non-negotiable rules:
+
+*   **Sales Operations:** If a lead status, deal blocker, or prospect requirement is not updated in HubSpot within 2 hours of a call, the sales enablement team will not build custom assets for that account. Marketing does not guess.
+
+*   **Product Engineering:** If a feature is added to the roadmap during a casual sync or casual Slack message, but a tracking ticket isn't immediately created, it does not exist. Product marketing will not draft messaging for ghost features.
+
+*   **Client Services:** CS must log all recurring customer feature complaints in the global feedback loop. If a pattern is left sitting in an isolated customer email thread, it is a failure of proactive marketing. 
+
+### 🧹 The Weekly Wiki Purge
+
+To prevent our internal documentation from becoming a digital graveyard, we treat our knowledge base like production code:
+
+*   Every Friday at 4 PM, the marketing team conducts a **"Tab Cleansing."** 
+
+*   Any duplicate document, outdated roadmap file, or asset containing the words *"FINAL v2"* is deleted instantly. 
+
+*   We maintain exactly **one** document per strategic initiative. If a document hasn't been updated or viewed in 60 days, it is archived. 
