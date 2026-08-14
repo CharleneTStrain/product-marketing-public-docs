@@ -30,11 +30,12 @@ This should be a system that runs without me, not a pile of assets I personally 
 
 Every week these stay untracked is a week of missing baseline. RevOps has already offered to build them.
 
-- [ ] Meeting → opportunity rate tracked
-- [ ] "Named champion" property live on deals
+- [ ] Cost per funnel-stage conversion defined and baselined, starting with meeting → opportunity rate
+- [ ] "Named champion" property live on deals, measuring whether a champion moves a deal further. Not whether it closes.
 - [ ] Contract end dates have a home, with the first target accounts loaded
-- [ ] Cost to acquire a customer, payback period, and marketing as a share of revenue answered. Or confirmed as not currently derivable.
-- [ ] Channel and pattern tracking live, feeding this quarter's decisions on where to invest
+- [x] Cost to acquire a customer, payback period, and marketing as a share of revenue. Confirmed as not currently derivable. Spend visibility sits with the head of marketing and finance.
+- [ ] Influence model scoped with RevOps: the activity data exists across paid media, website, events, and outbound; connecting it to conversion is the build
+- [ ] Deal-level margins logged, or the gap escalated. Not captured today, which blocks profitability by team.
 - [ ] Baselines recorded before the first thing ships, not after
 
 ## Q3 2026: Support the surfaces I'm responsible for
