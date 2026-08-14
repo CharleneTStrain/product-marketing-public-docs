@@ -17,7 +17,7 @@ This should be a system that runs without me, not a pile of assets I personally 
 - [ ] Message map signed by the head of marketing and the SVP over sales. One approved page answering "what does the company do."
 - [ ] Our internal AI assistant retrained on it
 - [ ] Every outside agency re-briefed off the same page
-- [ ] The 2026 plan's vertical messaging architecture filled in. The messaging matrix, now mine. The grid exists, the cells are empty.
+- [ ] The 2026 plan's vertical messaging architecture filled in — the messaging matrix, now mine. The grid exists, the cells are empty.
 - [ ] Define what a standard sales package contains, and name what's missing. The head of marketing calls this the sales toolkit: packaged, reviewed, with a marketing lens on it.
 - [ ] The three gaps an RFP demo surfaced — flexibility, earn and burn, and an overall capabilities deck — built once and maintained, not assembled per request
 - [ ] Reviewer routing map. Which material goes to which expert, who backs up the one person who knows the platform end to end, and one named contact for sales
