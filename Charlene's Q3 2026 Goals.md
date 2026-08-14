@@ -18,11 +18,12 @@ This should be a system that runs without me, not a pile of assets I personally 
 - [ ] Our internal AI assistant retrained on it
 - [ ] Every outside agency re-briefed off the same page
 - [ ] The 2026 plan's vertical messaging architecture filled in. The grid exists, the cells are empty.
-- [ ] Define what a standard enterprise sales package contains, and name what's missing (our technical writer asked for this; they'll produce against it)
-- [ ] Top three gaps filled with reviewed material in the sales-enablement library
+- [ ] Define what a standard sales package contains, and name what's missing. The head of marketing calls this the sales toolkit: packaged, reviewed, with a marketing lens on it.
+- [ ] The three gaps an RFP demo surfaced — flexibility, earn and burn, and an overall capabilities deck — built once and maintained, not assembled per request
 - [ ] Reviewer routing map. Which material goes to which expert, who backs up the one person who knows the platform end to end, and one named contact for sales
+- [ ] Connect with the contractor doing RFP-focused marketing so the toolkit and their work aren't two versions of the same thing
 - [ ] Four videos live and hosted somewhere a rep can send a link
-- [ ] Video hosting decided, yes or no. Video can't go in documentation without a hosted link.
+- [ ] Video hosting decided. Two SharePoint sites proposed; still open whether that solves linking from documentation.
 
 ## Q3 2026: Make December provable
 
@@ -33,9 +34,10 @@ Every week these stay untracked is a week of missing baseline. RevOps has alread
 - [ ] Cost per funnel-stage conversion defined and baselined, starting with meeting → opportunity rate
 - [ ] "Named champion" property live on deals, measuring whether a champion moves a deal further — not whether it closes
 - [ ] Contract end dates have a home, with the first target accounts loaded
-- [x] ~~Cost to acquire a customer, payback period, and marketing as a share of revenue~~ — confirmed as not currently derivable. Spend visibility sits with the head of marketing and finance
+- [x] ~~Cost to acquire a customer, payback period, and marketing as a share of revenue~~ — not currently derivable. Budget line items sit with the head of marketing, sales leadership, and finance. The ask is channel-level totals, not line items.
 - [ ] Influence model scoped with RevOps: the activity data exists across paid media, website, events, and outbound; connecting it to conversion is the build
 - [ ] Deal-level margins logged, or the gap escalated — not captured today, which blocks profitability by team
+- [ ] The AEO tracking sheet actually fed — the framework exists with every cell empty since February
 - [ ] Baselines recorded before the first thing ships, not after
 
 ## Q3 2026: Support the surfaces I'm responsible for
@@ -44,9 +46,10 @@ Tent-pole work only, not every routine item.
 
 - [ ] The September operational story for our AI connector ships — call center, CRM, campaign standup, measurements, projections — with the VP of AI's fraud detail captured underneath
 - [ ] It ships through a product session booked more than a month ahead, not a chat message. The rhythm working is the actual deliverable
-- [ ] Messaging review on the internal product-update series and the release notes before publish, not after
-- [ ] Corporate social: an ordered list of what's worth posting, handed to whoever runs the page, and the first product post live. The page has never had one
-- [ ] The product landing page and the PR push around it: claims check before any of it goes out
+- [x] ~~Messaging review on the internal product-update series and the release notes before publish, not after~~ — our technical writer tags me ahead of publish and shares the feature board
+- [x] ~~Corporate social: an ordered list of what's worth posting, handed to whoever runs the page~~
+- [ ] The first product post live. The page has never had one.
+- [ ] The approved product page's claims carried into the message map, the answer library, and everything sales sends
 - [ ] Monthly product roadmap sync on the calendar
 - [ ] Video #1 ships; one a week once the template is approved
 
@@ -77,6 +80,8 @@ That means the highest-value work available to me is unglamorous: routing, namin
 The second thing is entering work through the front door. Almost everything I've been handed in five weeks arrived as a chat message. The video project, the corporate social ask, an RFP response. The head of marketing named the fix: talk about what it is and the best way to bring it forward, more than a month ahead. The September story is the first real test of whether that rhythm holds.
 
 Third: influencing without authority is the job. I'm a contractor, so I have less of it. But not much less than any new product marketer would. The difference is that I get to be less emotionally attached to how fast it moves.
+
+Worth stating plainly: the net-new revenue target moved down this year, and leadership has said the goals won't be hit. That makes December a foundation story rather than an attainment story — which is exactly what the baselines are for.
 
 ## Things I don't care about this quarter
 
