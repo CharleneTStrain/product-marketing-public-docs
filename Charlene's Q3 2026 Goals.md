@@ -47,7 +47,8 @@ Tent-pole work only, not every routine item.
 - [ ] The September operational story for our AI connector ships — call center, CRM, campaign standup, measurements, projections — with the VP of AI's fraud detail captured underneath
 - [ ] It ships through a product session booked more than a month ahead, not a chat message. The rhythm working is the actual deliverable
 - [x] ~~Messaging review on the internal product-update series and the release notes before publish, not after~~ — our technical writer tags me ahead of publish and shares the feature board
-- [x] ~~Corporate social: an ordered list of what's worth posting, handed to whoever runs the page~~ — sent, ordered by the product launch first, then the proof numbers, the migration story, and the existing value pillars
+- [x] ~~Corporate social: an ordered list of what's worth posting, handed to whoever runs the page~~ — sent, in priority order: product launch, proof numbers, migration story, existing value pillars. Shipping order is the reverse, since the top three are blocked.
+- [ ] Four value-pillar posts drafted fresh, not lifted from the internal deck. The only unblocked item, so it goes first.
 - [ ] The first product post live. The page has never had one.
 - [ ] The approved product page's claims carried into the message map, the answer library, and everything sales sends
 - [ ] Monthly product roadmap sync on the calendar
