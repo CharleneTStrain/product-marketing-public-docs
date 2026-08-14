@@ -4,7 +4,7 @@ Previously: the listening tour — internal conversations across every function,
 
 *People are named by role rather than name, and the company, product, and clients are kept generic. Everything else is as written.*
 
-Two constraints, in the open. I'm on-call and part-time, with about seven working weeks left in the quarter. And I've been here five weeks, so I don't own a pipeline number yet. What I can own is whether the things that produce one exist. Every goal below is checkable by someone else without asking me what I meant.
+Two constraints, in the open. I'm on-call, with about seven working weeks left in the quarter. And I've been here five weeks, so I don't own a pipeline number yet. What I can own is whether the things that produce one exist. Every goal below is checkable by someone else without asking me what I meant.
 
 This will evolve and get added to throughout the quarter.
 
@@ -14,15 +14,15 @@ This will evolve and get added to throughout the quarter.
 
 This should be a system that runs without me, not a pile of assets I personally hand out.
 
-- [ ] Message map signed by the head of marketing and the SVP over sales — one approved page answering "what does the company do"
+- [ ] Message map signed by the head of marketing and the SVP over sales. One approved page answering "what does the company do."
 - [ ] Our internal AI assistant retrained on it
 - [ ] Every outside agency re-briefed off the same page
-- [ ] The 2026 plan's vertical messaging architecture filled in — the grid exists, the cells are empty
+- [ ] The 2026 plan's vertical messaging architecture filled in. The grid exists, the cells are empty.
 - [ ] Define what a standard enterprise sales package contains, and name what's missing (our technical writer asked for this; they'll produce against it)
 - [ ] Top three gaps filled with reviewed material in the sales-enablement library
-- [ ] Reviewer routing map — which material goes to which expert, who backs up the one person who knows the platform end to end, and one named contact for sales
+- [ ] Reviewer routing map. Which material goes to which expert, who backs up the one person who knows the platform end to end, and one named contact for sales
 - [ ] Four videos live and hosted somewhere a rep can send a link
-- [ ] Video hosting decided, yes or no — video can't go in documentation without a hosted link
+- [ ] Video hosting decided, yes or no. Video can't go in documentation without a hosted link.
 
 ## Q3 2026: Make December provable
 
@@ -33,7 +33,7 @@ Every week these stay untracked is a week of missing baseline. RevOps has alread
 - [ ] Meeting → opportunity rate tracked
 - [ ] "Named champion" property live on deals
 - [ ] Contract end dates have a home, with the first target accounts loaded
-- [ ] Cost to acquire a customer, payback period, and marketing as a share of revenue answered — or confirmed as not currently derivable
+- [ ] Cost to acquire a customer, payback period, and marketing as a share of revenue answered. Or confirmed as not currently derivable.
 - [ ] Channel and pattern tracking live, feeding this quarter's decisions on where to invest
 - [ ] Baselines recorded before the first thing ships, not after
 
@@ -53,11 +53,11 @@ Tent-pole work only, not every routine item.
 
 Work that follows a buyer after the meeting ends, when nobody from the company is present.
 
-- [ ] Ownership answer approved by the SVP over sales — reps get official words for the question buyers ask about our ownership structure
+- [ ] Ownership answer approved by the SVP over sales. Reps get official words for the question buyers ask about our ownership structure.
 - [ ] Champion packet: the cost-and-return model, the growth numbers, the approved ownership answer, and references at the right level
 - [ ] Client-name one-pager, signed off by the Head of Services, with our designer on what corporate social and design assets may use
 - [ ] Reference rights language into new contracts, alongside the terms-of-service work already in flight
-- [ ] Non-hotel proof routed at the revenue-concentration objection — the three clients outside our dominant vertical
+- [ ] Non-hotel proof routed at the revenue-concentration objection. The three clients outside our dominant vertical.
 
 ## The claim standard
 
@@ -69,13 +69,13 @@ Running through all four. Every external claim marked verified, approximate, or 
 
 ## Things I care about this quarter
 
-This is a strong-link company with a weak-link problem. Every individual piece is good — the answer library, the buyer research, the release notes, the growth numbers, the design. What sets the ceiling isn't the quality of any one of them. It's the worst connection between them, and right now several of those connections are nobody's job.
+This is a strong-link company with a weak-link problem. Every individual piece is good. The answer library, the buyer research, the release notes, the growth numbers, the design. What sets the ceiling isn't the quality of any one of them. It's the worst connection between them, and right now several of those connections are nobody's job.
 
 That means the highest-value work available to me is unglamorous: routing, naming owners, writing down what's already true, making one page *the* page. Nothing on this list requires inventing anything. The material is already paid for.
 
-The second thing is entering work through the front door. Almost everything I've been handed in five weeks arrived as a chat message — the video project, the corporate social ask, an RFP response. The head of marketing named the fix: talk about what it is and the best way to bring it forward, more than a month ahead. The September story is the first real test of whether that rhythm holds.
+The second thing is entering work through the front door. Almost everything I've been handed in five weeks arrived as a chat message. The video project, the corporate social ask, an RFP response. The head of marketing named the fix: talk about what it is and the best way to bring it forward, more than a month ahead. The September story is the first real test of whether that rhythm holds.
 
-Third: influencing without authority is the job. I'm a contractor, so I have less of it — but not much less than any new product marketer would. The difference is that I get to be less emotionally attached to how fast it moves.
+Third: influencing without authority is the job. I'm a contractor, so I have less of it. But not much less than any new product marketer would. The difference is that I get to be less emotionally attached to how fast it moves.
 
 ## Things I don't care about this quarter
 
