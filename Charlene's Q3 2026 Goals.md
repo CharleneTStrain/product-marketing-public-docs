@@ -66,11 +66,10 @@ Work that follows a buyer after the meeting ends, when nobody from the company i
 
 ## The claim standard
 
-Running through all four. Every external claim marked verified, approximate, or never-say.
+Running through all four. Every external claim marked verified, approximate, or never-say. The VP of AI asked for this unprompted, which is the strongest argument for it.
 
 - [ ] Written down as a house rule
 - [ ] Applied to the leadership deck, the videos, and the answer library
-- [ ] The VP of AI asked for this unprompted, which is the strongest argument for it
 
 ## Things I care about this quarter
 
