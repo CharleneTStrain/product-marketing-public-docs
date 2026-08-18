@@ -18,6 +18,7 @@ This should be a system that runs without me, not a pile of assets I personally 
 - [ ] Our internal AI assistant retrained on it
 - [ ] Every outside agency re-briefed off the same page
 - [ ] The 2026 plan's vertical messaging architecture filled in — the messaging matrix, now mine. The grid exists, the cells are empty.
+- [ ] Retrieve the analyst landscape presentation. Someone has already solved "make services legible to an outsider" once, under scoring pressure. The message map should inherit that rather than redo it.
 - [ ] Define what a standard sales package contains, and name what's missing. The head of marketing calls this the sales toolkit: packaged, reviewed, with a marketing lens on it.
 - [ ] The three gaps an RFP demo surfaced — flexibility, redemption capabilities, and an overall capabilities deck — built once and maintained, not assembled per request
 - [ ] Reviewer routing map. Which material goes to which expert, who backs up the one person who knows the platform end to end, and one named contact for sales
@@ -49,6 +50,7 @@ Tent-pole work only, not every routine item.
 
 - [ ] The September operational story for our AI connector ships — call center, CRM, campaign standup, measurements, projections — with the VP of AI's fraud detail captured underneath
 - [ ] It ships through a product session booked more than a month ahead, not a chat message. The rhythm working is the actual deliverable
+- [ ] Product marketing input delivered for the SaaS transformation workshop — what product marketing owns, contributes to, and doesn't, in a form someone else can present without me in the room
 - [x] ~~Messaging review on the internal product-update series and the release notes before publish, not after~~ — our technical writer tags me ahead of publish and shares the feature board
 - [x] ~~Corporate social: an ordered list of what's worth posting, handed to whoever runs the page~~ — sent, in priority order: product launch, proof numbers, migration story, existing value pillars. Shipping order is the reverse, since the top three are blocked.
 - [ ] Four value-pillar posts drafted fresh, not lifted from the internal deck. Due the 21st. The only unblocked item, so it goes first.
@@ -75,15 +77,18 @@ Work that follows a buyer after the meeting ends, when nobody from the company i
 
 Running through all four. Every external claim marked verified, approximate, or never-say. The VP of AI asked for this unprompted, which is the strongest argument for it.
 
-- [ ] Written down as a house rule
+- [ ] Written down as a house rule, with the four cases we already know we need: beta framing on the AI connector, entitlement caveats on anything that differs between the core product and a client's custom build, no accuracy claims on the fraud model without its author's sign-off, no diversified-portfolio claims without the vertical caveat
 - [ ] Applied to the leadership deck, the videos, and the answer library
+- [ ] Resolve the methodology name that appears in our content library and in no one's description of the work. Eighteen conversations, zero mentions. Either it's real intellectual property that never got routed, or it's legacy language that should stop appearing in source documents — and which one it is changes whether we say it.
 - [x] ~~Decide what the standard inherits versus adjudicates~~ — the approved public product page is the source. Claims on it are sayable; this page routes them rather than re-arguing them.
 
 ## Things I care about this quarter
 
 This is a strong-link company with a weak-link problem. Every individual piece is good. The answer library, the buyer research, the release notes, the growth numbers, the design. What sets the ceiling isn't the quality of any one of them. It's the worst connection between them, and right now several of those connections are nobody's job.
 
-That means the highest-value work available to me is unglamorous: routing, naming owners, writing down what's already true, making one page *the* page. Nothing on this list requires inventing anything. The material is already paid for. Twice this month the answer I was about to ask someone for was already sitting in our own documentation.
+That means the highest-value work available to me is unglamorous: routing, naming owners, writing down what's already true, making one page *the* page. Nothing on this list requires inventing anything. The material is already paid for. Three times this month the answer I was about to ask someone for was already sitting in our own documentation.
+
+Leadership has named a 2028 exit and put "attractiveness to a future buyer" on the list of criteria for prioritizing what to fix. That reframes the unglamorous work rather than competing with it. What lives only in people's heads doesn't survive a data room. Routing, named owners, and one page that's *the* page are diligence assets before they're marketing ones.
 
 The second thing is entering work through the front door. Almost everything I've been handed in five weeks arrived as a chat message. The video project, the corporate social ask, an RFP response. The head of marketing named the fix: talk about what it is and the best way to bring it forward, more than a month ahead. The September story is the first real test of whether that rhythm holds.
 
@@ -99,7 +104,7 @@ Defined by priorities. Going fast means leaving real problems alone.
 
 **Attribution credit.** Tracking, not credit. Which channel gets the win is a waste of breath; what we invest in next is the question. I'll help enforce that language rather than relitigate it.
 
-**Producing new content.** Nothing needs inventing this quarter. If a request starts with "can you write," the first question is *where does this already exist.*
+**Producing content that competes with what exists.** If a request starts with "can you write," the first question is *where does this already exist.* The exception is small and specific: a handful of posts that unblock a channel with nothing else in the queue. That's unblocking, not a content program.
 
 **Content for each client's customized build.** A real gap, confirmed independently by two people, and outside what I can fix in six weeks. Naming it is this quarter's contribution; solving it isn't.
 
