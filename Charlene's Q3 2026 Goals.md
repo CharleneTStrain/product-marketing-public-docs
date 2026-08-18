@@ -33,16 +33,18 @@ This should be a system that runs without me, not a pile of assets I personally 
 
 **We'll know we're successful when:** every number in the year-end readout has a "before" recorded in August.
 
-Every week these stay untracked is a week of missing baseline. RevOps has already offered to build them.
+Every week these stay untracked is a week of missing baseline. RevOps has already offered to build them. The gate is access, not willingness — read-only reporting requested in August.
 
-- [ ] Cost per funnel-stage conversion defined and baselined, starting with meeting → opportunity rate
-- [ ] "Named champion" property live on deals, measuring whether a champion moves a deal further — not whether it closes
-- [ ] Contract end dates have a home, with the first target accounts loaded
+- [ ] Stage-to-stage conversion baselined on new-business deals, starting with the stage before a demo through the demo itself. The stage-exit timestamps are automatic, deal stages are clean, and the deal-type field already separates new business from change orders — so this is the one conversion that's computable without building anything.
+- [ ] Definitions written before the report is built: which stage counts as an opportunity, what window, which pipeline, what start date. My job, not RevOps'.
+- [x] ~~Contract end dates have a home~~ — the property already exists and is populated from start date plus contract length. Remaining work is loading it for accounts we aren't already working.
+- [x] ~~"Named champion" property live on deals~~ — paused. Our largest new-business deal has no contacts associated, so the field would sit empty. Resolve whether that's permissions or practice first.
+- [x] ~~Meeting → opportunity rate~~ — paused for the same reason. Activity logging is inconsistent enough that the denominator isn't real yet.
 - [x] ~~Cost to acquire a customer, payback period, and marketing as a share of revenue~~ — not derivable, permanently rather than pending. Two closes in eighteen months is a sample-size problem, and the cost inputs sit outside marketing. The one ask that stays on the table is channel-level spend totals.
 - [ ] Influence model scoped with RevOps: the activity data exists across paid media, website, events, and outbound; connecting it to conversion is the build
 - [ ] Deal-level margins logged, or the gap escalated — not captured today, which blocks profitability by team
-- [ ] The AEO tracking sheet actually fed — the framework exists with every cell empty since February
-- [ ] Baselines recorded before the first thing ships, not after
+- [ ] The AEO tracking sheet actually fed — the framework exists with every cell empty since February. The only item in this section with no dependency on anyone else, so it goes first.
+- [ ] A dated snapshot of what we currently capture and what we don't. If access lands late, this is the honest deliverable — the "before" is the state of the data, not a rate.
 
 ## Q3 2026: Support the surfaces I'm responsible for
 
