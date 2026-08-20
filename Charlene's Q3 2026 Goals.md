@@ -19,15 +19,15 @@ This should be a system that runs without me, not a pile of assets I personally 
 - [ ] Every outside agency re-briefed off the same page
 - [ ] The 2026 plan's vertical messaging architecture filled in — the messaging matrix, now mine. The grid exists, the cells are empty.
 - [ ] Retrieve the analyst landscape presentation. Someone has already solved "make services legible to an outsider" once, under scoring pressure. The message map should inherit that rather than redo it.
-- [ ] Define what a standard sales package contains, and name what's missing. The head of marketing calls this the sales toolkit: packaged, reviewed, with a marketing lens on it.
+- [ ] Define what a standard sales package contains, and name what's missing. The head of marketing calls this the sales toolkit: packaged, reviewed, with a marketing lens on it. *Definition and gap list drafted; needs writing down somewhere checkable.*
 - [ ] The three gaps an RFP demo surfaced — flexibility, redemption capabilities, and an overall capabilities deck — built once and maintained, not assembled per request
-- [ ] Reviewer routing map. Which material goes to which expert, who backs up the one person who knows the platform end to end, and one named contact for sales
+- [ ] Reviewer routing map. Which material goes to which expert, who backs up the one person who knows the platform end to end, and one named contact for sales. *First entry started — asking the technical writer who verifies claims before publish.*
 - [ ] Settle the packaging tiers with the counterpart who owns them. My labels are placeholders and my read on the middle tier is secondhand.
 - [ ] Watch the product actually run. I've read a lot about it and never seen it work, which is the wrong order for someone writing the message map. Two demo offers outstanding.
 - [x] ~~Write the honest framing for how partner onboarding works~~ — found it in our own integration documentation rather than inventing it. Partners write to six API endpoints; the platform owns the ledger, the rules engine, and the redemption infrastructure. A strength, not a caveat.
 - [x] ~~Connect with the contractor doing RFP-focused marketing so the toolkit and their work aren't two versions of the same thing~~ — we're working in parallel. They own RFP and ABM; I own the messaging matrix.
-- [ ] Video #1 live and hosted where a rep can send a link, and the weekly rhythm running. The branded template lands late August and gates everything, so three live by quarter end is the realistic number.
-- [ ] Video hosting decided. Two internal sites proposed; still open whether that solves linking from documentation.
+- [ ] Video #1 live and hosted where a rep can send a link, and the weekly rhythm running. The branded template lands late August and gates everything, so three live by quarter end is the realistic number. *End card wording and label placement decided; not yet applied.*
+- [ ] Video hosting decided. With the head of marketing — the open question is whether it solves linking from documentation.
 
 ## Q3 2026: Make December provable
 
@@ -50,15 +50,15 @@ Every week these stay untracked is a week of missing baseline. RevOps has alread
 
 Tent-pole work only, not every routine item.
 
-- [ ] The September operational story for our AI connector ships — call center, CRM, campaign standup, measurements, projections — with the VP of AI's fraud detail captured underneath
+- [ ] The September operational story for our AI connector ships — call center, CRM, campaign standup, measurements, projections — with the VP of AI's fraud detail captured underneath. *Now confirmed: mid-September press announcement, operational side only, drafted and pitched over three weeks. Messaging review mine; approval path unsettled.*
 - [ ] It ships through a product session booked more than a month ahead, not a chat message. The rhythm working is the actual deliverable
-- [ ] Product marketing input delivered for the SaaS transformation workshop — what product marketing owns, contributes to, and doesn't, in a form someone else can present without me in the room
-- [x] ~~Messaging review on the internal product-update series and the release notes before publish, not after~~ — our technical writer tags me ahead of publish and shares the feature board
+- [x] ~~Product marketing input delivered for the SaaS transformation workshop~~ — one page, plus two recommendation slides on cadence, foundations and quick wins. Presented by the head of marketing; I'm not in the room.
+- [x] ~~Messaging review on the internal product-update series and the release notes before publish, not after~~ — our technical writer tags me ahead of publish and shares the feature board. *Open sub-question: sales docs include near-term roadmap as current capability, following RFP convention.*
 - [x] ~~Corporate social: an ordered list of what's worth posting, handed to whoever runs the page~~ — sent, in priority order: product launch, proof numbers, migration story, existing value pillars. Shipping order is the reverse, since the top three are blocked.
 - [ ] Four value-pillar posts drafted fresh, not lifted from the internal deck. Due the 21st. The only unblocked item, so it goes first.
 - [ ] The first product post live. The page has never had one.
 - [ ] The approved product page's claims carried into the message map, the answer library, and everything sales sends
-- [ ] Monthly product roadmap sync on the calendar
+- [ ] Monthly product roadmap sync on the calendar. *Two of three approvals in; one outstanding.*
 - [ ] Video #1 ships once the branded template is approved — template arrives late August — then one a week
 
 ## Q3 2026: Win the rooms I'm not in
